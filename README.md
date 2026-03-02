@@ -41,19 +41,6 @@ The project focuses on clean UI design, structured layout, and responsive web de
 
 ---
 
-## 📂 Folder Structure
-SNS---Nursing/
-│── index.html
-│── about.html
-│── services.html
-│── contact.html
-│── css/
-│── js/
-│── images/
-
-
----
-
 ## 💡 Key Highlights
 
 - Structured and maintainable code  
