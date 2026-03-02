@@ -1,70 +1,103 @@
-# SNS-College-of-Nursing
+# 🏥 SNS Nursing Website
 
-A static HTML website for **SNS College of Nursing** that showcases the college’s programs, facilities, and admission information.
-
----
-
-## 📖 Overview
-
-- **Responsive design** – works on desktop, tablet, and mobile devices.
-- **Modern styling** – uses vibrant colors, smooth hover effects, and a clean layout.
-- **Easy to maintain** – all content lives in simple HTML/CSS files, no build step required.
+A responsive and professionally designed nursing college website developed to represent academic programs, healthcare services, and institutional information in a structured and user-friendly format.
 
 ---
 
-## 🖼️ Preview
+## 📌 About the Project
 
-*(Add a screenshot of the homepage here)*
-`![SNS College of Nursing homepage](path/to/screenshot.png)`
+SNS Nursing Website is a front-end web application developed as an academic project to digitally showcase nursing department information, academic programs, facilities, and healthcare services.  
 
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository** (if you haven’t already):
-
-   ```bash
-   git clone https://github.com/Shanmu-iHub/SNS-College-of-Nursing.git
-   cd SNS-College-of-Nursing
-   ```
-
-2. **Open the site** in your browser:
-
-   ```bash
-   open index.html   # macOS
-   # or double‑click the file in Finder
-   ```
-
-3. **Edit content** – modify any of the HTML files under the project root. After saving, simply refresh the browser to see changes.
+The project focuses on clean UI design, structured layout, and responsive web development principles.
 
 ---
 
-## 📂 Project Structure
+## 🎯 Project Objectives
 
-```
-├── index.html          # Home page
-├── about.html          # About the college
-├── admission.html      # Admission details
-├── assets/
-│   ├── css/            # Stylesheets
-│   ├── img/            # Images, logos, etc.
-│   └── js/             # Optional JavaScript
-└── README.md           # This file
-```
+- Create a professional digital presence for SNS Nursing  
+- Present academic and healthcare information clearly  
+- Implement responsive web design concepts  
+- Demonstrate practical front-end development skills  
 
 ---
 
-## 🤝 Contributing
+## 🚀 Features
 
-Feel free to fork the repo, make improvements, and submit a pull request. Please keep the design consistent with the existing visual style.
+- 🏫 College and department overview  
+- 👩‍⚕️ Nursing program information  
+- 📋 Organized content sections  
+- 📞 Contact section  
+- 🔎 Easy navigation structure  
+- 📱 Fully responsive design (Mobile, Tablet, Desktop)  
+- 🎨 Clean and modern user interface  
 
 ---
 
-## 📜 License
+## 🛠️ Tech Stack
 
-This project is open‑source and available under the **MIT License**.
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ---
 
-*Created with ❤️ by the SNS College of Nursing team.*
-# SNS---Nursing
+## 📂 Folder Structure
+SNS---Nursing/
+│── index.html
+│── about.html
+│── services.html
+│── contact.html
+│── css/
+│── js/
+│── images/
+
+
+---
+
+## 💡 Key Highlights
+
+- Structured and maintainable code  
+- Responsive layout using modern CSS techniques  
+- User-friendly navigation  
+- Clean and minimal UI design  
+
+---
+
+## 📈 Learning Outcomes
+
+Through this project, I improved my understanding of:
+
+- Responsive Web Design  
+- UI/UX structuring  
+- HTML semantic elements  
+- CSS styling and layout techniques  
+- Basic JavaScript interactivity  
+
+---
+
+## 🎓 Developed As
+
+Developed as part of academic coursework at SNS College of Engineering to apply practical web development knowledge in a real-world healthcare-related scenario.
+
+---
+
+## 👨‍💻 Developer
+
+**Ajuvaitha**  
+B.E. CSE (IoT & Cyber Security including Blockchain Technology)  
+SNS College of Engineering  
+
+🔗 GitHub: https://github.com/Ajuvaitha  
+
+---
+
+## 🌟 Future Improvements
+
+- Add backend integration  
+- Add dynamic content management  
+- Implement authentication system  
+- Deploy with custom domain  
+
+---
+
+⭐ Thank you for visiting this repository!
