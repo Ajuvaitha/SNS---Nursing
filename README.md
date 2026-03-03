@@ -1,6 +1,6 @@
 # 🏥 SNS Nursing Website
 
-A responsive and professionally designed nursing college website developed to represent academic programs, healthcare service, and institutional information in a structured and user-friendly format.
+A responsive and professionally designed nursing college website developed to represent academic programs, healthcare services, and institutional information in a structured and user-friendly format.
 
 ---
 
