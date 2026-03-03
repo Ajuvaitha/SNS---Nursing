@@ -6,7 +6,7 @@ A responsive and professionally designed nursing college website developed to re
 
 ## 📌 About the Project
 
-SNS Nursing Website is a front-end web applicatio developed as an academic project to digitally showcase nursing department information, academic programs, facilities, and healthcare services.  
+SNS Nursing Website is a front-end web application developed as an academic project to digitally showcase nursing department information, academic programs, facilities, and healthcare services.  
 
 The project focuses on clean UI design, structured layout, and responsive web development principles.
 
