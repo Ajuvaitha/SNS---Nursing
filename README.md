@@ -12,7 +12,7 @@ The project focuses on clean UI design, structured layout, and responsive web de
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Project Objectives
 
 - Create a professional digital presence for SNS Nursing  
 - Present academic and healthcare information clearly  
